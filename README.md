@@ -7,6 +7,7 @@ The complete source code is available in this repository.
 ![Visual Look of the project.](screenshots/Home.jpeg)
 ✅*Homepage with content added.*
 ---
+\n
 ![Visual Look of the project when No Titles are added.](screenshots/Home_NoList.jpeg)
 🚫*Homepage with no content.*
 ---
@@ -15,7 +16,7 @@ The complete source code is available in this repository.
 - React ⚛️
 - Bootstrap 
 - Local Storage 🗂️
-
+\n
 ## 🙏 Acknowledgements
 Thanks for checking out my project!  
 Feel free to fork it, star it.🔥
