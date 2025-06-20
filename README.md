@@ -4,17 +4,15 @@ The complete source code is available in this repository.
 ### Live Demo: 👉 *[Click Here](https://watchlistkushal.netlify.app/)* 👈
 
 # 📸 Screenshots
-✅*Homepage with content added.*
- 
 ![Visual Look of the project.](screenshots/Home.jpeg)
+✅*Homepage with content added.*
 ---
- 
-🚫*Homepage with no content.*
  
 ![Visual Look of the project when No Titles are added.](screenshots/Home_NoList.jpeg)
+🚫*Homepage with no content.*
 ---
-
-   
+ 
+ 
 ## 🔧 Tech Stack
 - React ⚛️
 - Bootstrap 
