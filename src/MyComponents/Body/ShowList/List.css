@@ -1,0 +1,19 @@
+.listStyle {
+    width: 49%;
+    transition-duration: 200ms;
+}
+
+@media (hover: hover) {
+    .listStyle:hover {
+        transition-duration: 200ms;
+        transform: translateY(-1px) scale(1.0001);
+        border-radius: 1rem;
+        box-shadow: 0 0px 10px rgba(0, 0, 0, 0.05);
+    }
+}
+
+@media (max-width: 990px) {
+    .listStyle {
+        width: 100%;
+    }
+}
