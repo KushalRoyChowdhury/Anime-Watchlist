@@ -4,7 +4,7 @@ The complete source code is available in this repository.
 ### Live Demo: 👉 *[Click Here](https://watchlistkushal.netlify.app/)* 👈
 
 # 📸 Screenshots
-✅*Homepage with content added.*
+✅*Homepage with content added.*\n
 ![Visual Look of the project.](screenshots/Home.jpeg)
 ---
  
