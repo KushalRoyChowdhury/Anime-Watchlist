@@ -4,19 +4,19 @@ The complete source code is available in this repository.
 ### Live Demo: 👉 *[Click Here](https://watchlistkushal.netlify.app/)* 👈
 
 # 📸 Screenshots
-![Visual Look of the project.](screenshots/Home.jpeg)
 ✅*Homepage with content added.*
+![Visual Look of the project.](screenshots/Home.jpeg)
 ---
-\n
-![Visual Look of the project when No Titles are added.](screenshots/Home_NoList.jpeg)
+ 
 🚫*Homepage with no content.*
+![Visual Look of the project when No Titles are added.](screenshots/Home_NoList.jpeg)
 ---
-
+ 
 ## 🔧 Tech Stack
 - React ⚛️
 - Bootstrap 
 - Local Storage 🗂️
-\n
+ 
 ## 🙏 Acknowledgements
 Thanks for checking out my project!  
 Feel free to fork it, star it.🔥
