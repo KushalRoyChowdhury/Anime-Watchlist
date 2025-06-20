@@ -1,5 +1,5 @@
-Anime Watchlist app made in React. This is my first React app. It can be used on both desktop and mobiles. And uses Browser Storage to save data locally.
-Thank You for using it. The source code is available too.
+Anime Watchlist app built using React. This is my first React project, designed to work seamlessly on both desktop and mobile devices.
+The complete source code is available in this repository.
 
 ### Live Demo: 👉 *[Click Here](https://watchlistkushal.netlify.app/)* 👈
 
@@ -19,4 +19,3 @@ Thank You for using it. The source code is available too.
 ## 🙏 Acknowledgements
 Thanks for checking out my project!  
 Feel free to fork it, star it.🔥
----
